@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 22
+/svn/!svn/ver/63/trunk
+END
+vip.c
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/47/trunk/vip.c
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/32/trunk/AUTHORS
+END
+bootstrap.sh
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/64/trunk/bootstrap.sh
+END
+minGlue.h
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/11/trunk/minGlue.h
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/32/trunk/ChangeLog
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/32/trunk/depcomp
+END
+eoip.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/57/trunk/eoip.cfg
+END
+vip.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/49/trunk/vip.cfg
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/53/trunk/README
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/61/trunk/configure.ac
+END
+minIni.c
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/11/trunk/minIni.c
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/33/trunk/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/32/trunk/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/61/trunk/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/32/trunk/missing
+END
+minIni.h
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/11/trunk/minIni.h
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/32/trunk/NEWS
+END
+eoip.c
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/63/trunk/eoip.c
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/64/trunk/install-sh
+END
